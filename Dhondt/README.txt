@@ -38,3 +38,6 @@ and DHondt_TensorFlow_KERAS_2D output is the following:
 [[0. 1. 0. 0.]
  [8. 0. 1. 0.]
  [0. 0. 0. 0.]]
+
+You can see if you reshape the output of DHondt_TensorFlow_KERAS_2D to 1D column vector
+then you will get exactly the same output as DHondt_TensorFlow_KERAS_1D
